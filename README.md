@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalwatlab
+- 👋 Hi, this is the @kalwatlab
 - 👀 We're interested in pancreatic islets, mechanisms of insulin secretion, diabetes, transcriptomics, HTS and drug discovery!
 - 🌱 We're currently learning about machine learning and omics analysis
 - 💞️ We're looking to collaborate on analysis of publically-available data related to pancreatic islet biology.
